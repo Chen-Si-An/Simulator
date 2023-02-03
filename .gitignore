@@ -1,0 +1,12 @@
+#Build results
+[Dd]ebug/
+[Rr]elease/
+
+#Ext
+*.bmp
+*.txt
+*.sdf
+*.suo
+*.db
+*.opensdf
+
