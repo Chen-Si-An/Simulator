@@ -18,3 +18,4 @@
   13. `Open`: Load simulation file.
   14. `Save`: Save simulation file.
   
+![Image](https://github.com/Chen-Si-An/Simulator/blob/0e8094bb42173bca7fad5aeddffe74da7839e010/Simulator.gif)
