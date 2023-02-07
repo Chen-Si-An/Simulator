@@ -1,6 +1,6 @@
 # Simulator
 
-**This project provides a graphical interface that users can use to simulate the output from combinations of several inputs.**
+### This project provides a graphical interface that users can use to simulate the output from combinations of several inputs.
 
 * function of each button
   1. `IN`: Generate an input block. Double click it to select the type of input.
