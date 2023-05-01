@@ -2,7 +2,7 @@
 
 ### This project provides a graphical interface that users can use to simulate the output from combinations of several inputs.
 
-* function of each button
+* Function of each button
   1. `IN`: Generate an input block. Double click it to select the type of input.
   2. `OUT`: Generate an output block.
   3. `AND`: Generate an AND block, which performs function of logic and.
